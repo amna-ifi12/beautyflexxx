@@ -1,0 +1,6 @@
+{
+  "name": "BeautyFlex - Coffee Acne Soap",
+  "description": "Premium coffee-inspired skincare website for BeautyFlex Coffee Acne Soap. 100% organic gentle care for acne-prone skin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
